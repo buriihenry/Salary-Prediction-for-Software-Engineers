@@ -1,4 +1,4 @@
-## Deploying our Model using Flask
+## Deploying our Model using Streamlit
 Streamlit Web Application which predicts the salary of a software engineers based on the data from stackoverflow
 
 ## Dataset
