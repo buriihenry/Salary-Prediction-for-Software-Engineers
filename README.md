@@ -28,7 +28,7 @@ By default, streamlit will run on port 8501.
 
 You should be able to view the homepage.
 
-Select the activity which you want, Eplore or Predict 
+Select the activity which you want, Explore or Predict 
 
 If everything goes well, you should Visiualize the data from Explore page or Predict the data from Predict page
 
