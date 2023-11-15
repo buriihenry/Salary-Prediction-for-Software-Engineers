@@ -1,7 +1,7 @@
 ## Deploying our Model using Streamlit
 Streamlit Web Application which predicts the salary of a software engineers based on the data from stackoverflow
 
-#Problem:
+##Problem:
 Streamlit web application for salary prediction, backed by Linear Regression, Decision Trees, and Random Forest models, is a valuable tool for software engineers navigating the competitive tech job market. It harnesses the data from Stack Overflow to offer accurate salary predictions, enabling users to make informed career decisions. As the tech industry continues to evolve, data-driven insights are essential, and our application exemplifies how these insights can be made accessible to all, helping software engineers make informed choices about their professional journeys.
 
 ## Dataset
